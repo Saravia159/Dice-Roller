@@ -1,0 +1,25 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+  } 
+
+/* .box {
+  background-color:black;
+
+} */
+/*
+button {
+   background-color: rgb(82, 186, 179);
+    border-radius: 6px;
+    border: none;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    cursor: pointer;
+}
+*/
+
+ h1 {
+    background-color: rgb(82,186,179);
+    color: white;
+    padding: 25px;
+}
